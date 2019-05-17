@@ -3,7 +3,7 @@ function greeter(person: string) {
 }
 
 let user = "Jane User";
-let error = [0,1,2];
+// let error = [0,1,2];
 
 document.body.innerHTML = greeter(user);
-document.body.innerHTML = greeter(error);
+// document.body.innerHTML = greeter(error);
